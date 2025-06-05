@@ -1,0 +1,12 @@
+{
+  "name": "nodered-render",
+  "version": "1.0.0",
+  "description": "Node-RED deployment on Render.com",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-red": "^3.0.2"
+  }
+}
